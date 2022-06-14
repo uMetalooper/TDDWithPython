@@ -4,5 +4,6 @@ from setuptools import find_packages
 setup(
     name="flaskner",
     version="0.0.1",
-    description="A simple NER API"
+    description="A simple NER API",
+    py_modules=[]
 )
